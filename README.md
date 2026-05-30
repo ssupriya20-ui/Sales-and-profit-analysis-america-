@@ -1,7 +1,7 @@
 # Sales-and-profit-analysis-america-
 This Power BI dashboard provides a comprehensive analysis of sales, profit, customer trends, and regional performance across multiple product categories. The dashboard enables stakeholders to monitor business performance, identify profitable segments, understand customer behavior, and make data-driven decisions.
 
-#Project_Objective
+# Project_Objective
 The primary objectives of this dashboard are:
 To analyze overall sales and profit performance across different years.
 To identify top-performing product categories and sub-categories.
@@ -10,7 +10,7 @@ To monitor geographical sales distribution across states.
 To track monthly sales patterns and seasonal trends.
 To provide decision-makers with actionable insights for revenue and profit growth.
 
-#Problem_Statement
+# Problem_Statement
 
 Businesses often struggle to gain a consolidated view of their sales and profit performance due to fragmented data across products, customers, and regions. Without a centralized reporting system, it becomes difficult to:
 
